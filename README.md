@@ -13,3 +13,12 @@ Synesthesia Canvas is an interactive audiovisual instrument to use real-time han
 
 My name is Keng Yang and I am a student at the University of St. Thomas studying Computer Science with a minor in Data Science.
 
+## Installation
+
+```bash
+git clone https://github.com/KwazyKeng/DIMA259-Final-Project.git
+```
+
+1) Make sure you have python installed.
+2) Run with a local server
+3) Ensure you have a microphone and a webcam
